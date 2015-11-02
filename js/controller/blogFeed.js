@@ -16,7 +16,7 @@
     .directive('blogFeed', function() {
       return {
         restrict: 'E',
-        templateUrl: '/partials/blogFeed.html'
+        templateUrl: 'partials/blogFeed.html'
       };
     });
 })();
