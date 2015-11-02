@@ -18,47 +18,47 @@ RaptaconApp.config(['$routeProvider',
   function($routeProvider) {
     $routeProvider.
       when('/', {
-        templateUrl: '/partials/home.html',
+        templateUrl: 'partials/home.html',
         controller: 'RaptaconController'
       }).
       when('/blog', {
-        templateUrl: '/partials/blog.html',
+        templateUrl: 'partials/blog.html',
         controller: 'RaptaconController'
       }).
       when('/calendar', {
-        templateUrl: '/partials/calendar.html',
+        templateUrl: 'partials/calendar.html',
         controller: 'RaptaconController'
       }).
       when('/contact', {
-        templateUrl: '/partials/contact.html',
+        templateUrl: 'partials/contact.html',
         controller: 'RaptaconController'
       }).
       when('/scrimmage', {
-        templateUrl: '/partials/scrimmage.html',
+        templateUrl: 'partials/scrimmage.html',
         controller: 'RaptaconController'
       }).
       when('/scrimmage/video', {
-        templateUrl: '/partials/scrimmage/video.html',
+        templateUrl: 'partials/scrimmage/video.html',
         controller: 'RaptaconController'
       }).
       when('/scrimmage/gameRules', {
-        templateUrl: '/partials/scrimmage/gameRules.html',
+        templateUrl: 'partials/scrimmage/gameRules.html',
         controller: 'RaptaconController'
       }).
       when('/scrimmage/questions', {
-        templateUrl: '/partials/scrimmage/questions.html',
+        templateUrl: 'partials/scrimmage/questions.html',
         controller: 'RaptaconController'
       }).
       when('/scrimmage/answers', {
-        templateUrl: '/partials/scrimmage/answers.html',
+        templateUrl: 'partials/scrimmage/answers.html',
         controller: 'RaptaconController'
       }).
       when('/scrimmage/rsvp', {
-        templateUrl: '/partials/scrimmage/rsvp.html',
+        templateUrl: 'partials/scrimmage/rsvp.html',
         controller: 'RaptaconController'
       }).
       when('/scrimmage/updates', {
-        templateUrl: '/partials/scrimmage/updates.html',
+        templateUrl: 'partials/scrimmage/updates.html',
         controller: 'RaptaconController'
       }).
       otherwise({
