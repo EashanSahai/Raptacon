@@ -89,6 +89,7 @@ iframe {
   padding: 20px;
   padding-left: 30px;
   overflow: hidden;
+  min-width: 150px;
 }
 .logo-img {
   box-shadow: 0 0 60px 10px #000, /* inner black */

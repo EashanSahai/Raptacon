@@ -128,14 +128,16 @@
   -webkit-transition: all .3s ease-in-out;
   -o-transition: all .3s ease-in-out;
   transition: all .3s ease-in-out;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
 }
 .btn-dark {
+  background-color: rgba(0, 0, 0, .7);
   padding: 10px 25px;
   border-radius: 3px;
   border: medium none;
   vertical-align: middle;
   cursor: pointer;
-  border: 1px solid#EE3B24;
+  border: 1px solid#000;
   white-space: nowrap;
   font-size: 16px;
   line-height: 1.42857;
@@ -145,6 +147,7 @@
   -webkit-transition: all .3s ease-in-out;
   -o-transition: all .3s ease-in-out;
   transition: all .3s ease-in-out;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
 }
 .btn-dark:hover {
   background: #EE3B24;
