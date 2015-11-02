@@ -1,0 +1,62 @@
+<section id="contact-info">
+  <div class="center">
+    <br>
+    <br>
+    <h2>How to Reach Us</h2>
+  </div>
+
+  <div>
+    <div class="container-fluid margin-auto">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21713.60533240417!2d-104.73384899735571!3d39.62498387986518!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876c8befdf66c793%3A0x2365d2e81a8ae850!2sEaglecrest+High+School!5e0!3m2!1sen!2sus!4v1445747605512"
+      width="98%" height="400" style="border:10px;" allowfullscreen></iframe>
+
+    </div>
+  </div>
+</section>
+
+
+<section id="contact-page">
+  <div class="container">
+    <div class="center">
+      <h2>Drop A Message</h2>
+    </div>
+    <div class="row contact-wrap">
+      <div class="status alert alert-success" style="display: none"></div>
+      <form id="main-contact-form" class="contact-form" name="contact-form" method="post" action="sendemail.php">
+        <div class="col-sm-5 col-sm-offset-1">
+          <div class="input-group margin-all">
+            <span class="input-group-addon"><i class="fa fa-user"></i></span>
+            <input type="text" name="name" placeholder="Name" class="form-control" required="required">
+          </div>
+          <div class="input-group margin-all">
+            <span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+            <input type="email" name="email" placeholder="E-Mail" class="form-control" required="required">
+          </div>
+          <div class="input-group margin-all">
+            <span class="input-group-addon"><i class="fa fa-phone"></i></span>
+            <input type="number" name="phone" placeholder="Phone" class="form-control">
+          </div>
+          <div class="input-group margin-all">
+            <span class="input-group-addon"><i class="fa fa-briefcase"></i></span>
+            <input type="text" name="company" placeholder="Company" class="form-control">
+          </div>
+        </div>
+        <div class="col-sm-5">
+          <div class="input-group margin-all">
+            <span class="input-group-addon"><i class="fa fa-comment"></i></span>
+            <input type="text" name="subject" placeholder="Subject" class="form-control" required="required">
+          </div>
+          <div class="input-group margin-all">
+            <span class="input-group-addon"><i class="fa fa-comments"></i></span>
+            <textarea name="message" id="message" placeholder="Message" required="required" class="form-control" rows="6"></textarea>
+          </div>
+          <div class="input-group margin-all pull-right">
+            <button type="submit" name="submit" class="btn btn-primary btn-lg" required="required">Send Message</button>
+          </div>
+        </div>
+      </form>
+    </div>
+    <!--/.row-->
+  </div>
+  <!--/.container-->
+</section>
