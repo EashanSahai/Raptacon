@@ -33,6 +33,14 @@ RaptaconApp.config(['$routeProvider',
         templateUrl: 'partials/contact.html',
         controller: 'RaptaconController'
       }).
+      when('/team', {
+        templateUrl: 'partials/team.html',
+        controller: 'RaptaconController'
+      }).
+      when('/mentors', {
+        templateUrl: 'partials/mentors.html',
+        controller: 'RaptaconController'
+      }).
       when('/scrimmage', {
         templateUrl: 'partials/scrimmage.html',
         controller: 'RaptaconController'
