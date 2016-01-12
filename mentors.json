@@ -1,0 +1,60 @@
+{
+  "members": [
+    {
+      "name": "Bob Joe",
+      "image": "images/team-member.jpg",
+      "grade": "Freshman",
+      "yearOnTeam": "First",
+      "subteams": [ "Web Design"],
+      "bio": "Eashan is a Freshman at Smoky Hill HS. He enjoys Arduino Programming and is very interested in robotics. He comes to Eaglecrest High School to share his interest and is a Web Designer for the team, while also helping out in other aspects to benefit the team! He is excited for the season and hopes we do well.  "
+
+
+    },
+    {
+      "name": "Austin Programming",
+      "image": "images/Raptacon-Logo-150.png",
+      "grade": "Junior",
+      "yearOnTeam": "Third",
+      "subteams": [ "Programming"],
+      "bio": "Programming is fun. Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun."
+
+    },
+    {
+      "name": "Kevin Manufacturing",
+      "image": "images/Raptacon-Logo-150.png",
+      "grade": "Sophomore",
+      "yearOnTeam": "Second",
+      "subteams": [ "Manufacturing"],
+      "bio": " Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun."
+
+    },
+    {
+      "name": "Ben Electronics",
+      "image": "images/Raptacon-Logo-150.png",
+      "grade": "Senior",
+      "yearOnTeam": "Fourth",
+      "subteams": [ "Electronics"],
+      "bio": " Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. "
+
+    },
+    {
+      "name": "Vali Design",
+      "image": "images/Raptacon-Logo-150.png",
+      "grade": "Senior",
+      "yearOnTeam": "Fourth",
+      "subteams": [ "Electronics"],
+      "bio": "Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun.  "
+
+    },
+    {
+      "name": "Kyle Marketing",
+      "image": "images/Raptacon-Logo-150.png",
+      "grade": "Senior",
+      "yearOnTeam": "Fourth",
+      "subteams": [ "Electronics"],
+      "bio": "Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun.   "
+
+    }
+  ]
+
+}

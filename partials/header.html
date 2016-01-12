@@ -42,21 +42,30 @@
             <div class="collapse navbar-collapse navbar-right">
               <ul class="nav navbar-nav all-caps">
                 <li id="homeMenu">
-                  <a href="#/" ng-click="go('homeMenu')">Home</a></li>
-                <li id="scrimmageMenu">
-                  <a href="#/scrimmage"  ng-click="go('scrimmageMenu')">Scrimmage</a></li>
+                  <a href="#/" ng-click="go('homeMenu')">Home</a>
+                </li>
+
                 <li class="dropdown" id="teamMenu">
                   <a class="dropdown-toggle" data-toggle="dropdown" ng-click="go('teamMenu')">Team
                     <i class="fa fa-angle-down"></i></a>
                   <ul class="dropdown-menu">
-                    <li><a href="#/mentors" ng-click="go('teamMenu')">Mentors</a></li>
-                    <li><a href="#/team" ng-click="go('teamMenu')">Members</a></li>
                     <li><a href="#/blog" ng-click="go('teamMenu')">Blog</a></li>
                     <li><a href="#/calendar" ng-click="go('teamMenu')">Calendar</a></li>
                   </ul>
                 </li>
-                <li id="sponsorsMenu"><a href="#/sponsors" ng-click="go('sponsorsMenu')">Sponsors</a></li>
-                <li id="contactMenu"><a href="#/contact" ng-click="go('contactMenu')">Contact</a></li>
+                <li class="dropdown" id="aboutMenu">
+                  <a class="dropdown-toggle" data-toggle="dropdown" ng-click="go('aboutMenu')">About
+                    <i class="fa fa-angle-down"></i></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="#/mentors" ng-click="go('teamMenu')">Mentors</a></li>
+                    <li><a href="#/team" ng-click="go('teamMenu')">Members</a></li>
+                  </ul>
+                </li>
+                <li id="scrimmageMenu">
+                  <a href="#/scrimmage" ng-click="go('scrimmageMenu')">Scrimmage</a>
+                </li>
+                <li id="contactMenu"><a href="#/contact" ng-click="go('contactMenu')">Contact</a>
+                </li>
               </ul>
             </div>
           </div>

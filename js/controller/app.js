@@ -1,6 +1,8 @@
 var RaptaconApp = angular.module('RaptaconApp', [
   'ngRoute',
-  'BlogFeedDirective'
+  'BlogFeedDirective',
+  'TeamBioDirective',
+  'MentorsBioDirective'
 ]);
 
 RaptaconApp.controller('RaptaconController', function ($scope) {

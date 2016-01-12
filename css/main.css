@@ -33,15 +33,16 @@ h3 {
 h4 {
   font-size: 16px;
 }
+h6{
+  font-size: 30px;
+  font-weight: bolder;
+  line-height: 24px;}
 a {
-  color: #c52d2f;
-  -webkit-transition: color 300ms, background-color 300ms;
-  -moz-transition: color 300ms, background-color 300ms;
-  -o-transition: color 300ms, background-color 300ms;
-  transition: color 300ms, background-color 300ms;
+  color: #7CFC00;
+
 }
 a:hover, a:focus {
-  color: #d43133;
+  color: #2F4F2F;
 }
 hr {
   border-top: 1px solid #e5e5e5;
@@ -50,6 +51,7 @@ hr {
 iframe {
   border: 0px;
 }
+
 .title-center {
   background-color: rgba(40, 40, 40, 0.6);
   text-align: center;
@@ -93,13 +95,13 @@ iframe {
 }
 .logo-img {
   box-shadow: 0 0 60px 10px #000, /* inner black */
-  0 0 100px 60px #C00, /* middle magenta */
+  0 0 100px 60px #7CFC00, /* middle magenta */
   0 0 140px 90px #000;
   /* outer black */
 }
 .logo-img:hover {
   box-shadow: 0 0 60px 10px #000, /* inner white */
-  0 0 100px 60px #F03, /* middle magenta */
+  0 0 100px 60px #7CFC00, /* middle magenta */
   0 0 140px 90px #000;
   /* outer cyan */
 
@@ -253,7 +255,7 @@ ul.social-share li a {
   border-radius: 2px;
 }
 ul.social-share li a:hover {
-  background: #c52d2f;
+  background: #7CFC00;
   color: #fff;
 }
 .search i {
@@ -307,7 +309,7 @@ input.search-form:hover {
   display: inline-block;
 }
 .navbar-inverse .navbar-nav > li > a:hover {
-  background-color: #c52d2f;
+  background-color: #76EE00;
   color: #fff;
 }
 .navbar-inverse {
@@ -319,7 +321,7 @@ input.search-form:hover {
   color: #fff;
 }
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
-  background-color: #c52d2f;
+  background-color: #78AB46;
   color: #fff;
 }
 .navbar-inverse .navbar-nav .dropdown-menu {
@@ -343,7 +345,7 @@ input.search-form:hover {
   color: #fff;
 }
 .navbar-inverse .navbar-nav .dropdown-menu > li:hover > a, .navbar-inverse .navbar-nav .dropdown-menu > li:focus > a, .navbar-inverse .navbar-nav .dropdown-menu > li.active > a {
-  background-color: #c52d2f;
+  background-color: #7CFC00;
   color: #fff;
 }
 .navbar-inverse .navbar-nav .dropdown-menu > li:last-child > a {
@@ -1480,7 +1482,82 @@ ul.social_icons li a i {
   -o-transition: none;
   transition: none;
 }
+/**************************
+********* Mentors and Members CSS *
+**************************/
+.person-left {
+  padding: 20px;
+  padding-right: 20px;
+  background-color: #FDFDF0;
+}
+.person-right {
+  padding: 20px;
+  padding-left: 20px;
+  background-color: #F2E4D5;
+  vertical-align: top;
+}
+.person {
+  width: 90%;
+  box-shadow: 0 0 10px 2px #CCC;
+  position: relative;
+  margin: 30px auto;
+  }
 
+tr {
+  border: 1px;
+  border-spacing: 15px;
+}
+
+.picture{
+  border: 10px solid #f6f5f0;
+  border-radius: 50%;
+  height: 175px;
+  width: 175px;
+  box-shadow: 0px 0px 3px 3px #e7e4dc;
+  overflow: hidden;
+  position: relative;
+  margin: 0 auto;
+}
+.title {
+  font-size: 24px;
+  font-family: cursive;
+  font-weight: bold;
+}
+.tag {
+  display: inline-block;
+  background-color: #DAAF85;
+  border-radius: 6px;
+  padding: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #FFF;
+  margin-right: 5px;
+  margin-bottom: 10px;
+  /* box-shadow: 3px 3px 5px 2px #999; */
+}
+.year-tag {
+  display: inline-block;
+  background-color: #AAA;
+  border-radius: 6px;
+  padding: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #FFF;
+  margin-right: 5px;
+  margin-bottom: 10px;
+}
+.subteams {
+  height: 20%;
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+.bio {
+  display: block;
+  vertical-align: middle;
+  height: 80%;
+  font-size: 16px;
+}
 /**************************
 ********* Pricing Table CSS *
 **************************/

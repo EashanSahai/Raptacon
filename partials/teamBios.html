@@ -1,0 +1,23 @@
+<table class="person" ng-repeat="member in members">
+  <tr>
+      <td class="person-left">
+        <div class="picture">
+          <img src="{{member.image}}"></img>
+        </div>
+        <br>
+        <div class="text-center">
+          <span class="title">{{member.name}}</span>
+          <br>
+          <br>
+          <span class="year-tag">{{member.grade}}</span>
+          <span class="year-tag">{{member.yearOnTeam}} year</span>
+        </div>
+      </td>
+      <td class="person-right">
+        <div class="subteams">
+          <span class="tag" ng-repeat="st in member.subteams">{{st}}</span>
+        </div>
+        <div class="bio">{{member.bio}}</div>
+      </td>
+    </tr>
+  </table>

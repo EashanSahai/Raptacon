@@ -77,7 +77,7 @@
   font-weight: 600;
 }
 .hero-title span {
-  color: #EE3B24;
+  color: #76EE00;
 }
 .hero-description {
   margin-bottom: 30px;
@@ -96,13 +96,13 @@
   margin-left: 5px;
 }
 .btn-main:hover {
-  background: #EE3B24;
-  border: 1px solid#EE3B24;
+  background: #78AB46;
+  border: 1px solid#78AB46;
   color: #fff;
 }
 .btn-main.featured {
-  background: #EE3B24;
-  border: 1px solid#EE3B24;
+  background: #78AB46;
+  border: 1px solid#78AB46;
   color: #fff;
 }
 .btn-main.featured:hover {
@@ -150,6 +150,6 @@
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
 }
 .btn-dark:hover {
-  background: #EE3B24;
+  background: #78AB46;
   color: #fff;
 }
