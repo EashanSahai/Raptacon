@@ -12,7 +12,7 @@
     .directive('mentorsBio', function() {
       return {
         restrict: 'E',
-        templateUrl: 'partials/MentorsBios.html'
+        templateUrl: 'partials/mentorsBios.html'
       };
     });
 })();

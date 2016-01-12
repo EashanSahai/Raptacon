@@ -12,7 +12,7 @@
     .directive('teamBio', function() {
       return {
         restrict: 'E',
-        templateUrl: 'partials/TeamBios.html'
+        templateUrl: 'partials/teamBios.html'
       };
     });
 })();
