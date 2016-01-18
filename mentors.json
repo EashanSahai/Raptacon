@@ -1,58 +1,52 @@
 {
   "members": [
     {
-      "name": "Bob Joe",
-      "image": "images/team-member.jpg",
-      "grade": "Freshman",
-      "yearOnTeam": "First",
-      "subteams": [ "Web Design"],
-      "bio": "Eashan is a Freshman at Smoky Hill HS. He enjoys Arduino Programming and is very interested in robotics. He comes to Eaglecrest High School to share his interest and is a Web Designer for the team, while also helping out in other aspects to benefit the team! He is excited for the season and hopes we do well.  "
-
-
-    },
-    {
-      "name": "Austin Programming",
+      "name": "Jenny Hane",
       "image": "images/Raptacon-Logo-150.png",
-      "grade": "Junior",
       "yearOnTeam": "Third",
+      "subteams": [ "Electronics"],
+      "bio": "I'm an Electrical Engineer who joined the industry in 2012.  My day job has me working for SEAKR Engineering as an FPGA designer, with a little DSP thrown in.  In my spare time I dabble in robotics, so FIRST mentoring was a natural fit.  "
+
+
+    },
+    {
+      "name": "Sherry Garfio",
+      "image": "images/Raptacon-Logo-150.png",
+      "yearOnTeam": "Fifth",
       "subteams": [ "Programming"],
-      "bio": "Programming is fun. Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun.Programming is fun."
+      "bio": "I'm an electrical engineer with a background in physics.  For the past 3 years I have worked at SEAKR Engineering Inc. doing FPGA design for spacecraft avionics systems.  In my spare time I enjoy rock climbing, backpacking, and DIY electronics."
 
     },
     {
-      "name": "Kevin Manufacturing",
+      "name": "Marty Otzenberger",
       "image": "images/Raptacon-Logo-150.png",
-      "grade": "Sophomore",
+      "yearOnTeam": "Third",
+      "subteams": [ "Manufacturing", "Design", "Strategy", "Electronics"],
+      "bio": " I'm an electrical engineer with a background in physics.  For the past 3 years I have worked at SEAKR Engineering Inc. doing FPGA design for spacecraft avionics systems.  In my spare time I enjoy rock climbing, backpacking, and DIY electronics. "
+
+    },
+    {
+      "name": "Corey Kesler",
+      "image": "images/Raptacon-Logo-150.png",
+      "yearOnTeam": "Third",
+      "subteams": [ "Strategy", "Web Design"],
+      "bio": " I teach physics at Eaglecrest High School and love helping students put science and technology lessons into action. "
+
+    },
+    {
+      "name": "Guy Stone",
+      "image": "images/Raptacon-Logo-150.png",
+      "yearOnTeam": "Seventh",
+      "subteams": [ "Manufacturing", "Design", "Strategy"],
+      "bio": "Being a FIRST mentor is an incredibly rewarding experience for me, and I am continually inspired by the hard work and dedication that I see in the team members. As a mentor, I try to encourage team members to embrace non-conventional strategies and designs. One of the biggest traps that a team can fall in to is to keep recycling the same ideas and designs year after year because it is something they are comfortable with, or because they have seen other teams doing something similar. The best teams challenge themselves to come up with innovative designs to play the game each year, and I believe it is the role of the mentors to use their experience to help the team work through the details and bang out a functioning robot that achieves those design goals within six weeks. It is a (not so) secret goal of mine to win a regional with a robot that can't move, because that would be awesome, and it would be a nice little poke in the eye to all of the teams that spend so much time inventing fancy drive systems.  "
+
+    },
+    {
+      "name": "Ken Stich",
+      "image": "images/Raptacon-Logo-150.png",
       "yearOnTeam": "Second",
-      "subteams": [ "Manufacturing"],
-      "bio": " Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun. Manufacturing is fun."
-
-    },
-    {
-      "name": "Ben Electronics",
-      "image": "images/Raptacon-Logo-150.png",
-      "grade": "Senior",
-      "yearOnTeam": "Fourth",
-      "subteams": [ "Electronics"],
-      "bio": " Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. Electronics is fun. "
-
-    },
-    {
-      "name": "Vali Design",
-      "image": "images/Raptacon-Logo-150.png",
-      "grade": "Senior",
-      "yearOnTeam": "Fourth",
-      "subteams": [ "Electronics"],
-      "bio": "Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun. Design is fun.  "
-
-    },
-    {
-      "name": "Kyle Marketing",
-      "image": "images/Raptacon-Logo-150.png",
-      "grade": "Senior",
-      "yearOnTeam": "Fourth",
-      "subteams": [ "Electronics"],
-      "bio": "Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun. Marketing is fun.   "
+      "subteams": [ "Design", "Strategy", "Sensor Integration"],
+      "bio": "I'm a jack-of-all-trades, have degrees in Mechanical and Aerospace Engineering, so robotics is really fun as it involves so many aspects of engineering.  And of course, it's fun working with students to solve problems.   "
 
     }
   ]

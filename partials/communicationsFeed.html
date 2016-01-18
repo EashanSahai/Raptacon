@@ -1,0 +1,6 @@
+<div ng-repeat="post in posts">
+  <h2 ng-bind-html="renderHtml(post.title)"></h2>
+  <h4>Posted by {{ post.author.nickname }} on {{ post.date }}</h4>
+  <p ng-bind-html="renderHtml(post.content)"></p>
+  <hr>
+</div>

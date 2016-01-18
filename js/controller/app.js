@@ -27,6 +27,10 @@ RaptaconApp.config(['$routeProvider',
         templateUrl: 'partials/blog.html',
         controller: 'RaptaconController'
       }).
+      when('/communications', {
+        templateUrl: 'partials/communications.html',
+        controller: 'RaptaconController'
+      }).
       when('/calendar', {
         templateUrl: 'partials/calendar.html',
         controller: 'RaptaconController'
