@@ -616,7 +616,19 @@ input.search-form:hover {
 .recent-work-wrap:hover .overlay {
   opacity: 1;
 }
-
+.marquee-text {
+	width: 20%;
+	height: 30px;
+	color: white;
+	font-size: 2.0em;
+	font-weight: 700;
+	text-shadow: 4px 4px 8px #999999;
+	white-space: nowrap;
+}
+.marquee-outer {
+	width: 875px;
+	margin: auto;
+}
 #services {
   background: #000 url(../images/services/bg_services.png);
   background-size: cover;
@@ -1520,7 +1532,7 @@ tr {
 }
 .title {
   font-size: 24px;
-  font-family: cursive;
+  /*font-family: cursive;*/
   font-weight: bold;
 }
 .tag {
